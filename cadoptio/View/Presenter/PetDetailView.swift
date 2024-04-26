@@ -66,7 +66,7 @@ struct PetInfoItemView: View {
                 VStack{
                     Image(systemName: "person.fill")
                         .foregroundStyle(.orange)
-                    Text("3.5 km")
+                    Text("4.0 km")
                 }
             )
     }
